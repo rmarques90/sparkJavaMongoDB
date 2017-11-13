@@ -1,3 +1,8 @@
 .idea/
 testespark.iml
 target/
+/out/
+out/
+src/main/java/META-INF/
+src/main/resources/
+src/test/
